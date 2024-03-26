@@ -13,3 +13,7 @@ db.movies refers to the movies collection
 
 ![image](https://github.com/henrykrain/hw3/assets/120867004/6da6b6cf-3c0b-4d70-8279-09d00dcc55d9)
 ![image](https://github.com/henrykrain/hw3/assets/120867004/0839e109-43d4-4d6b-a0b9-f12e0389bd90)
+
+# Notes
+I originally attempted to export the collections to vscode and from there use vscode to query. That is why there is a bunch of files besides the readme.md. 
+Those can be ignored. I used the MongoDB Compass terminal _MONGOSH for this assignment.
